@@ -14,7 +14,6 @@ public class Server {
     DataOutputStream out; 
     DataInputStream in;
 
-     
     
 
     public void Comunica()
